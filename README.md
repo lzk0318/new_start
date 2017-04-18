@@ -1,2 +1,5 @@
 # new_start
-新的开始
+<?php
+  echo 'hello world';
+
+?>
